@@ -3,7 +3,6 @@
 ## Student Details
 
 * **Name:** Samriddhi Joshi
-* **Roll Number:** 24BAI10562
 * **Course:** Open Source Software
 
 ---
